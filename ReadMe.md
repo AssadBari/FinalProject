@@ -1,6 +1,7 @@
 Team Name - Bariesi
 Assad Bari - mab694@pitt.edu
 Mike Pistolesi - mjp184@pitt.edu
+Leo Lam - ljl73@pitt.edu
 
 Dataset #1 - https://data.wprdc.org/dataset/daily-community-center-attendance
 Daily count of individuals who have visited City Community Centers since March 2011.
