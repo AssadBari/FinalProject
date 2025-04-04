@@ -9,6 +9,6 @@ Daily count of individuals who have visited City Community Centers since March 2
 Dataset #2 - https://data.wprdc.org/dataset/pittsburgh-public-schools-individualized-education-plan-iep
 This dataset captures students attending a Pittsburgh Public School that are classified as either gifted or having some other type of Individualized Education Plan (IEP).
 
-Dataset #3 - https://data.wprdc.org/dataset/landslide-prone-areas
+Dataset #3 - https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh
 
 This project describes the best neighborhood in Pittsburgh based on the parameters of community engagement, education, and safety.
