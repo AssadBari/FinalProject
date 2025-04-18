@@ -13,4 +13,4 @@ This dataset captures students attending a Pittsburgh Public School that are cla
 Dataset #3 - https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh
 Analysis of traffic volume in different areas of Pittsburgh
 
-This project aims to determine the best neighborhood in Pittsburgh based on the parameters of community engagement, education, and traffic volume.
+This project aims to determine the best neighborhood in Pittsburgh based on the parameters of community engagement, education, and traffic safety.
