@@ -1,4 +1,4 @@
-Team Name - Bariesi
+Team Name - Bariesilam
 
 Assad Bari - mab694@pitt.edu
 Mike Pistolesi - mjp184@pitt.edu
