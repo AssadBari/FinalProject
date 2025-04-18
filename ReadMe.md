@@ -1,7 +1,9 @@
 Team Name - Bariesilam
 
 Assad Bari - mab694@pitt.edu
+
 Mike Pistolesi - mjp184@pitt.edu
+
 Leo Lam - ljl73@pitt.edu
 
 Dataset #1 - https://data.wprdc.org/dataset/daily-community-center-attendance
